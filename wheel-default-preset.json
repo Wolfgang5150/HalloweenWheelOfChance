@@ -1,0 +1,130 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "label": "GRAND\u2022PRIZE",
+      "icon": "\ud83d\udc51",
+      "color": "#11ff00",
+      "weight": 3
+    },
+    {
+      "id": 2,
+      "label": "COFFEE",
+      "icon": "\u2615",
+      "color": "#f7dfb7",
+      "weight": 10
+    },
+    {
+      "id": 3,
+      "label": "2\u2022CANDY",
+      "icon": "\ud83c\udf6c",
+      "color": "#64305c",
+      "weight": 10
+    },
+    {
+      "id": 4,
+      "label": "Bonus Spin",
+      "icon": "\u2726",
+      "color": "#f2bd88",
+      "weight": 10
+    },
+    {
+      "id": 5,
+      "label": "CANDY",
+      "icon": "\ud83c\udf83",
+      "color": "#df6425",
+      "weight": 10
+    },
+    {
+      "id": 6,
+      "label": "3\u2022CANDY",
+      "icon": "\ud83c\udf40",
+      "color": "#282b33",
+      "weight": 10
+    },
+    {
+      "id": 8,
+      "label": "TRICK",
+      "icon": "\u2728",
+      "color": "#f6dcb5",
+      "weight": 10
+    },
+    {
+      "id": 7,
+      "label": "MYSTERY",
+      "icon": "\ud83d\udca5",
+      "color": "#1c1b27",
+      "weight": 10
+    },
+    {
+      "id": 12,
+      "label": "TRICK",
+      "icon": "\u2728",
+      "color": "#dd7827",
+      "weight": 10
+    },
+    {
+      "id": 13,
+      "label": "TREAT",
+      "icon": "\ud83c\udf6d",
+      "color": "#5e305c",
+      "weight": 10
+    },
+    {
+      "id": 14,
+      "label": "CANDY",
+      "icon": "\ud83c\udf6c",
+      "color": "#edc78e",
+      "weight": 10
+    },
+    {
+      "id": 15,
+      "label": "TRICK",
+      "icon": "\u2728",
+      "color": "#282830",
+      "weight": 10
+    },
+    {
+      "id": 16,
+      "label": "CANDY",
+      "icon": "\ud83c\udf6c",
+      "color": "#d66c2a",
+      "weight": 10
+    },
+    {
+      "id": 17,
+      "label": "DO\u2022A\u2022DANCE",
+      "icon": "\ud83d\udd7a",
+      "color": "#5e305c",
+      "weight": 10
+    },
+    {
+      "id": 18,
+      "label": "CANDY",
+      "icon": "\ud83c\udf6c",
+      "color": "#edc78e",
+      "weight": 10
+    },
+    {
+      "id": 19,
+      "label": "TELL\u2022A\u2022JOKE",
+      "icon": "\ud83d\ude02",
+      "color": "#282830",
+      "weight": 10
+    },
+    {
+      "id": 21,
+      "label": "CANDY",
+      "icon": "\ud83c\udf6c",
+      "color": "#5e305c",
+      "weight": 10
+    }
+  ],
+  "scale": 100,
+  "sound": true,
+  "duration": 5,
+  "ambient": true,
+  "taper": 34,
+  "history": [],
+  "exportedAt": "2026-10-23T15:37:17.056Z"
+}
